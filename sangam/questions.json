@@ -1,0 +1,157 @@
+[
+    {
+        "question": "What is Python?",
+        "options": ["A programming language", "A snake", "A game", "A tool"],
+        "answer": "A programming language"
+    },
+    {
+        "question": "Which keyword is used to define a function in Python?",
+        "options": ["func", "def", "function", "lambda"],
+        "answer": "def"
+    },
+    {
+        "question": "What data type is the result of `3 / 2` in Python 3?",
+        "options": ["int", "float", "str", "complex"],
+        "answer": "float"
+    },
+    {
+        "question": "Which of these is NOT a Python data type?",
+        "options": ["List", "Tuple", "Map", "Set"],
+        "answer": "Map"
+    },
+    {
+        "question": "What does the `len()` function do?",
+        "options": ["Returns the length of an object", "Sorts a list", "Counts vowels", "Reverses a string"],
+        "answer": "Returns the length of an object"
+    },
+    {
+        "question": "How do you start a comment in Python?",
+        "options": ["//", "/*", "#", "<!--"],
+        "answer": "#"
+    },
+    {
+        "question": "Which of the following is a mutable data type in Python?",
+        "options": ["List", "Tuple", "String", "Integer"],
+        "answer": "List"
+    },
+    {
+        "question": "What does the `continue` keyword do in a loop?",
+        "options": [
+            "Terminates the loop",
+            "Skips the current iteration and continues to the next",
+            "Repeats the current iteration",
+            "Does nothing"
+        ],
+        "answer": "Skips the current iteration and continues to the next"
+    },
+    {
+        "question": "What is the output of `print(type(42))`?",
+        "options": ["<class 'int'>", "<class 'float'>", "<class 'str'>", "<class 'bool'>"],
+        "answer": "<class 'int'>"
+    },
+    {
+        "question": "Which method is used to add an element to a list?",
+        "options": ["add()", "append()", "insert()", "extend()"],
+        "answer": "append()"
+    },
+    {
+        "question": "What does the `break` statement do?",
+        "options": [
+            "Pauses the loop temporarily",
+            "Exits the loop",
+            "Continues to the next iteration",
+            "Restarts the loop"
+        ],
+        "answer": "Exits the loop"
+    },
+    {
+        "question": "How do you create a dictionary in Python?",
+        "options": [
+            "Using curly braces {}",
+            "Using square brackets []",
+            "Using parentheses ()",
+            "Using angle brackets <>"
+        ],
+        "answer": "Using curly braces {}"
+    },
+    {
+        "question": "What does `is` keyword check in Python?",
+        "options": [
+            "Value equality",
+            "Object identity",
+            "Data type",
+            "Variable scope"
+        ],
+        "answer": "Object identity"
+    },
+    {
+        "question": "How do you write a for loop in Python?",
+        "options": [
+            "for (i = 0; i < 10; i++)",
+            "for i in range(10):",
+            "foreach (i in 10)",
+            "loop i in range(10):"
+        ],
+        "answer": "for i in range(10):"
+    },
+    {
+        "question": "What is the default return value of a Python function without a `return` statement?",
+        "options": ["0", "None", "False", "Undefined"],
+        "answer": "None"
+    },
+    {
+        "question": "What does `pip` stand for?",
+        "options": ["Python Package Installer", "Preferred Installer Program", "Python Interface Program", "Package Installation Program"],
+        "answer": "Preferred Installer Program"
+    },
+    {
+        "question": "What is the output of `print(2**3)`?",
+        "options": ["5", "6", "8", "9"],
+        "answer": "8"
+    },
+    {
+        "question": "Which of these is used to handle exceptions in Python?",
+        "options": ["try/except", "throw/catch", "error/catch", "exception/handler"],
+        "answer": "try/except"
+    },
+    {
+        "question": "What does `list(range(5))` return?",
+        "options": ["[1, 2, 3, 4, 5]", "[0, 1, 2, 3, 4]", "[0, 1, 2, 3, 4, 5]", "[1, 2, 3, 4]"],
+        "answer": "[0, 1, 2, 3, 4]"
+    },
+    {
+        "question": "What is the output of `bool(0)`?",
+        "options": ["True", "False", "Error", "None"],
+        "answer": "False"
+    },
+    {
+        "question": "How do you create a set in Python?",
+        "options": [
+            "Using curly braces {}",
+            "Using square brackets []",
+            "Using parentheses ()",
+            "Using angle brackets <>"
+        ],
+        "answer": "Using curly braces {}"
+    },
+    {
+        "question": "What is the output of `print(10 // 3)`?",
+        "options": ["3.33", "3", "4", "Error"],
+        "answer": "3"
+    },
+    {
+        "question": "Which module is used to generate random numbers in Python?",
+        "options": ["random", "math", "os", "time"],
+        "answer": "random"
+    },
+    {
+        "question": "How do you create a tuple in Python?",
+        "options": ["Using parentheses ()", "Using curly braces {}", "Using square brackets []", "Using angle brackets <>"],
+        "answer": "Using parentheses ()"
+    },
+    {
+        "question": "What is the output of `print(len({1, 2, 2, 3}))`?",
+        "options": ["3", "4", "2", "1"],
+        "answer": "3"
+    }
+]
